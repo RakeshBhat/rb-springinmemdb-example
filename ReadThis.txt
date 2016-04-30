@@ -1,0 +1,4 @@
+https://start.spring.io/
+http://localhost:8080/h2-console/
+spring.h2.console.enabled to true
+spring.datasource.initialize to true
